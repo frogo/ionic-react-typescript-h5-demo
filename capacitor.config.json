@@ -1,0 +1,6 @@
+{
+  "appId": "frogo.cn",
+  "appName": "政法委中心平台授权登录",
+  "webDir": "build",
+  "bundledWebRuntime": false
+}
